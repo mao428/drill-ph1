@@ -12,6 +12,8 @@ CSS及びロゴのパスを修正し、正しく表示されるようにして�
 
 * 検索や説明をする際にAIを活用して構いません
 
+説明の回答フォーム：https://docs.google.com/forms/d/e/1FAIpQLSdcBfZvbmdEcaQ_89os0g3sYRKHsz1YXbNQi8KaPdpX343dsw/viewform?usp=header
+
 ### 修正箇所
 
 `index.html` L9、L17

@@ -10,6 +10,8 @@ CSSに**1行だけ**追記して、以下のサンプルと同じように配置
 
 * 検索や説明をする際にAIを活用して構いません
 
+説明の回答フォーム：https://docs.google.com/forms/d/e/1FAIpQLSdcBfZvbmdEcaQ_89os0g3sYRKHsz1YXbNQi8KaPdpX343dsw/viewform?usp=header
+
 ![week1-2](https://user-images.githubusercontent.com/47471778/169683044-658a0799-2d23-4f01-a090-c3e9ee44ea41.png)
 
 ### 修正箇所
